@@ -6,10 +6,10 @@
 // Be aware that the larger the maze, the more memory is consumed.
 // With recursive backtracking the whole maze is stored in memory.
 
-const maxMaze = 75000;
-const maxSolve = 30000;
-const maxCanvas = 16080100;
-const maxCanvasDimension = 32760;
+const maxMaze = 0;
+const maxSolve = 0;
+const maxCanvas = 0;
+const maxCanvasDimension = 0;
 
 // Maximum walls you can remove
-const maxWallsRemove = 300;
+const maxWallsRemove = 0;
